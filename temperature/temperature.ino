@@ -42,5 +42,5 @@ void loop(){
  Serial.print(temperatureF);
  Serial.println(" degrees F");
 
- delay(//waiting a second
+ delay(1000);//waiting a second
 }
