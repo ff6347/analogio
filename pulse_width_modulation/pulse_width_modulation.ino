@@ -16,6 +16,7 @@ void loop(){
    * analogWrite values from 0 to 255
    */
     analogWrite(ledPin, val / 4);  
+//    analogWrite(ledPin, map(val, 0,1023,0,255)); // <-- This is actually better  
 
 }
 
