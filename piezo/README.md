@@ -9,6 +9,7 @@ It sends a square wave of the appropriate frequency to the piezo, generating the
 
 - drunk_rider.ino 
 - rocky.ino
+- generate_tone.ino
 
 ![](piezo_output_bb.png)  
 Based on work by  by Tom Igoe ([arduino.cc/en/Tutorial/tone](http://arduino.cc/en/Tutorial/tone)) and  by Dejan Milenkovits from [malmö University at the institution of art, culture and communication](https://ioio.mah.se/).  
