@@ -1,5 +1,5 @@
 // generate a tone with a piezo
-// connect the piezo + to pin 9
+// connect the piezo + to pin 12
 // connect the piezo - to GND
 void setup(){
   Serial.begin(9600);
