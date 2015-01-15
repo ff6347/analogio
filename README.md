@@ -4,7 +4,7 @@ analogio
 These sketches are part of the course ["Input Output (Eingabe Ausgabe)Fundamentals of process-oriented design."](https://interface.fh-potsdam.de/eingabe-ausgabe/)  
 
 ##License  
-If not further noted 
+If not further noted  
 
 This is free and unencumbered software released into the public domain.  
 
