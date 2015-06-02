@@ -3,6 +3,8 @@ analogio
 
 These sketches are part of the course ["Input Output (Eingabe Ausgabe)Fundamentals of process-oriented design."](https://interface.fh-potsdam.de/eingabe-ausgabe/)  
 
+In the repository for the digital input output [github.com/fabiantheblind/digitalio](https://github.com/fabiantheblind/digitalio) we have example for the Raspberry Pi and for Arduino. Unfortunately the analog io capabilities of the Pi are limited. We can have soft and hard PWM but thats it. We have no ADC (analog to digital converter). So having an analog input is not possible. You can have an Arduino talking to your pi via serial. For some examples how to do this take a look into [github.com/fabiantheblind/c2c](https://github.com/fabiantheblind/c2c).  
+
 ##License  
 If not further noted  
 
