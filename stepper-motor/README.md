@@ -20,7 +20,7 @@ _The EasyDriver site is without any styling. If you are get stressed by looking 
 
 ---
 
-## Adafruit stepper motors tutorial
+## L293D stepper motors driver (based on Adafruit examples)
 
 You can use the L293D H-Bridge and an external power supply. The stepper is controled with values youe send via the `Serial` monitor.  
 
