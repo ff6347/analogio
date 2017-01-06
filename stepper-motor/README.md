@@ -17,3 +17,11 @@ _The EasyDriver site is without any styling. If you are get stressed by looking 
     line-height: 1.5em;
     font-family: sans-serif;
     font-size: 1.1em;
+
+---
+
+## Adafruit stepper motors tutorial
+
+You can use the L293D H-Bridge and an external power supply. The stepper is controled with values youe send via the `Serial` monitor.  
+
+Taken from here --> https://learn.adafruit.com/adafruit-arduino-lesson-16-stepper-motors?view=all
